@@ -8,6 +8,7 @@ package studentlist;
 /**
  * printing student details
  * @author srinivsi
+ modified by me
  */
 public class Studentlist
 {
